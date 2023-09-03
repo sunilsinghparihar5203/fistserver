@@ -1,0 +1,19 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "test serverr",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunil",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilsinghparihar5203/fistserver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sunilsinghparihar5203/fistserver/issues"
+  },
+  "homepage": "https://github.com/sunilsinghparihar5203/fistserver#readme"
+}
