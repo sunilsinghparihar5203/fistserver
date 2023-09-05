@@ -4,7 +4,9 @@
   "description": "test serverr",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server":"node app.js"
   },
   "author": "sunil",
   "license": "ISC",
@@ -16,7 +18,7 @@
     "url": "https://github.com/sunilsinghparihar5203/fistserver/issues"
   },
   "homepage": "https://github.com/sunilsinghparihar5203/fistserver#readme",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^3.0.1"
   }
 }
