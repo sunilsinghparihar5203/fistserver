@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sunilsinghparihar5203/fistserver/issues"
   },
-  "homepage": "https://github.com/sunilsinghparihar5203/fistserver#readme"
+  "homepage": "https://github.com/sunilsinghparihar5203/fistserver#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
